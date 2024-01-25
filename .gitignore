@@ -7,3 +7,5 @@ job-1-spark.py
 # Ignore the entire 'jars' and 'env' directories
 jars/
 env/
+
+.DS_store
