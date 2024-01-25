@@ -1,0 +1,9 @@
+# Ignore specific python files
+job-1-emr.py
+job-1-spark-emr.py
+job-1-spark-hdinsight.py
+job-1-spark.py
+
+# Ignore the entire 'jars' and 'env' directories
+jars/
+env/
